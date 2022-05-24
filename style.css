@@ -525,31 +525,3 @@ a {
   line-height: 14px;
   color: #828282;
 }
-
-.header2 {
-  background-color: olivedrab;
-}
-
-.igor {
-  padding: 1em 0;
-  min-height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 25px;
-}
-
-.igor2 {
-  background-color: #c3b9af;
-}
-
-.igor3 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.footer2 {
-  background-color: olivedrab;
-}
